@@ -7,6 +7,8 @@
 
 Repositori on trobareu els entregables requerits al curs **Introduction to Python** realitzat per la plataforma Bioinformatics Barcelona.
 
+Author: **[Carlos Cruz Marin](https://www.linkedin.com/in/carlos-cruz-marin/)**  
+Twitter: [@c_cruz_TC](https://twitter.com/c_cruz_TC)
 ## Index / List of Folders
 
 - Exercici 1: Bucles i Condicionals
